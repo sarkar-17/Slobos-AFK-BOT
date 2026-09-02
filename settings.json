@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "unscriptedunstable.aternos.me:36036",
+    "ip": "unscriptedunstable.aternos.me",
     "port": 36036,
     "version": "1.21.1"
   },
